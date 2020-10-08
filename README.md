@@ -20,10 +20,10 @@ a software engineer from Brasil 🇧🇷, currently, I'm a Community Team Member
   
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 currently working at [Locallabs](https://github.com/localitylabs);
-- 🌱 learning Rails view components, Stimulus Reflex and Elixir; 
+- 👨‍💻 Currently working at [Locallabs](https://github.com/localitylabs);
+- 🌱 Learning Rails view components, Stimulus Reflex and Elixir; 
 - 📫 How to reach me: tavares.gleydson@gmail.com;
-- 🎙 Currently hosting [Parafraseando](https://parafraseando.herokuapp.com/).
+- 🎙 Hosting [Parafraseando](https://parafraseando.herokuapp.com/).
 
 **Languages and Tools:**  
 
