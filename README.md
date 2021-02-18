@@ -1,4 +1,4 @@
-### Hey, 👋 I'm Gleydson
+### Hi there!, 👋 I'm Gleydson
 
 <br/>
 <a href="https://twitter.com/g13ydson">
