@@ -1,29 +1,12 @@
 ### Hi there!, 👋 I'm Gleydson
 
-<br/>
-<a href="https://twitter.com/g13ydson">
-  <img align="left" alt="Gleydson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gleydsontavares/">
-  <img align="left" alt="Gleydson" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/g13ydson">
-  <img align="left" alt="Gleydson" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 
-<br/>
-<br/
-
-a software engineer from Brasil 🇧🇷, currently, I'm a Community Team Member 💎 [@jamparuby](https://github.com/jamparuby).
-
-<img align="right" width="500px" eight="200px" src="https://pbs.twimg.com/profile_banners/70558625/1594526066/1500x500" />
+A software engineer from Brasil 🇧🇷. I'm a Community Team Member 💎 [@jamparuby](https://github.com/jamparuby). And [ViewComponent](https://viewcomponent.org/CONTRIBUTING.html#triage) code Triage
   
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 Working at [Locallabs](https://github.com/localitylabs);
-- 🌱 Learning Rails view components, Stimulus Reflex and Elixir; 
+- 🌱 Learning Rails view components, Hotwire and Elixir/Phoenix; 
 - 📫 How to reach me: tavares.gleydson@gmail.com;
-- 🎙 Hosting [Parafraseando](https://parafraseando.herokuapp.com/).
 
 **Languages and Tools:**  
 
