@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://gleydson.dev">gleydson.dev</a> &nbsp;·&nbsp;
   <a href="mailto:tavares.gleydson@gmail.com">email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/gleydsontavares">linkedin</a>
+  <a href="https://linkedin.com/in/gleydson-tavares">linkedin</a>
 </p>
 
 ---
