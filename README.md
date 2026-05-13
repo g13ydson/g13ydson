@@ -46,15 +46,6 @@ end
 
 <br/>
 
-### `~/currently`
-
-- 💎 &nbsp;Scaling a community news platform at [**Local Labs**](https://locallabs.com) — serving **3,000+** US communities
-- 🌱 &nbsp;Going deeper on **ViewComponent**, **Hotwire/Turbo**, and **Elixir/Phoenix**
-- 🇧🇷 &nbsp;Active member of [**@jamparuby**](https://github.com/jamparuby) — João Pessoa's Ruby community
-- ✉️ &nbsp;Open to interesting conversations — `tavares.gleydson@gmail.com`
-
-<br/>
-
 ### `~/stack`
 
 **Languages & Frameworks**
