@@ -24,7 +24,6 @@
 ```ruby
 class Gleydson
   ROLE     = "Senior Software Engineer"
-  COMPANY  = "Local Labs, LLC"
   LOCATION = "João Pessoa · BR"
   SINCE    = 2015
 
